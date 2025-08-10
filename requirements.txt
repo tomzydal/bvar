@@ -1,0 +1,4 @@
+pycryptodome
+coincurve
+base58
+tqdm
